@@ -27,4 +27,4 @@ Train a classification model ( Logistic Regression, Random Forest).
 
 Evaluate the model's performance using accuracy and other metrics like the classification report.
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the https://github.com/asisshhh/Fake-news-detection/blob/main/LICENSE file for details.
